@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zzengsuper/github-actions-demo/static/css/main.073c9b0a.css",
+    "main.js": "/zzengsuper/github-actions-demo/static/js/main.1fca79a3.js",
+    "static/js/787.7d091d4f.chunk.js": "/zzengsuper/github-actions-demo/static/js/787.7d091d4f.chunk.js",
+    "static/media/logo.svg": "/zzengsuper/github-actions-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/zzengsuper/github-actions-demo/index.html",
+    "main.073c9b0a.css.map": "/zzengsuper/github-actions-demo/static/css/main.073c9b0a.css.map",
+    "main.1fca79a3.js.map": "/zzengsuper/github-actions-demo/static/js/main.1fca79a3.js.map",
+    "787.7d091d4f.chunk.js.map": "/zzengsuper/github-actions-demo/static/js/787.7d091d4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1fca79a3.js"
+  ]
+}
